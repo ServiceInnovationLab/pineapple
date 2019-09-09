@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ServiceInnovationLab/pineapple#readme",
   "dependencies": {
     "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.9.6"
   }
 }
