@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ServiceInnovationLab/pineapple#readme",
   "dependencies": {
+    "handlebars": "^4.7.6",
+    "minimist": "^1.2.5",
     "vue": "^2.6.10"
   },
   "devDependencies": {
